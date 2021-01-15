@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40414E;
+}
+
+h1 {
+  margin: 100px auto 0 auto;  /*16px=100%=1em*/
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  color: #66BFBF;
+  }
+
+h2 {
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+color: #EAF6F6;
+
+}
+
+hr {
+border: dotted 6px;
+width: 4%;
+color: #EAF6F6;
+border-bottom: none;
+margin: 100px auto;
+}
+
+.contact-msg {
+width: 40%;
+margin: 40px auto 60px;
+
+}
+
+.BUTTON_RDG {
+  background: #11CDD4;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  box-shadow: 1px 1px 20px 0px #000000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_RDG:hover {
+  border: solid #337FED 1px;
+  background: #30E3CB;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+
+.middle-container {
+margin: 100px 0;
+}
+
+.bottom-container {
+  background-color:  #66BFBF;
+  padding: 50px 0 20px;
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.copyright {
+  font-weight: normal;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 600px;
+  width: 100px;
+  margin-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.translate-icon {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.code-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+p {
+  padding: 1em 0;
+  font-size: 80;
+  font-family: "brandon-grotesque", "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: bold;
+  line-height: 2;
+
+
+}
